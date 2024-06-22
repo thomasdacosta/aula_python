@@ -1,0 +1,37 @@
+print("Soma")
+print(2+2)
+
+print("Subtração")
+print(10-2)
+
+print("Exponenciação")
+print(2 ** 3)
+print(2 ** 3.)
+print(2. ** 3)
+print(2. ** 3.)
+
+print("Multiplicação")
+print(2 * 3)
+print(2 * 3.)
+print(2. * 3)
+print(2. * 3.)
+
+print("Divisão")
+print(6 / 3)
+print(6 / 3.)
+print(6. / 3)
+print(6. / 3.)
+
+print("Divisão que arredonda para baixo")
+print(6 // 3)
+print(6 // 3.)
+print(6. // 3)
+print(6. // 3.)
+print(6 // 4)
+print(6. // 4)
+print(-6 // 4)
+print(6. // -4)
+
+print("Resto da Divisão")
+print(14 % 4)
+print(12 % 4.5)
